@@ -1,5 +1,6 @@
 # LyricConverter
-Repository for Lyric Converter (LRC to SRT) Project
+This program can convert .lrc file to .srt 
+Not only that, it can change the speed of the .lrc and .srt file
 
 # Functions of the program
 Tinker around lyrics file:
