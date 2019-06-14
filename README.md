@@ -6,10 +6,10 @@ Tinker around lyrics file:
 - Converting .lrc file to .srt file
 - Change the speed of lyric shown
 
-Instruction: (With Java)
+# Instruction: (Note: Run with Java)
 1. Compile Run the LyricConverter Class to start the program
 
-Beginner Instruction:
+# Beginner Instruction:
 1. It is recommended to use BlueJ as an easy way to view the project
    Download BlueJ at: https://www.bluej.org/
    Then install.
