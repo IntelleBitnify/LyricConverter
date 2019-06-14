@@ -1,5 +1,5 @@
 # LyricConverter
-This program can convert .lrc file to .srt 
+This program can convert .lrc file to .srt \n
 Not only that, it can change the speed of the .lrc and .srt file
 
 # Functions of the program
