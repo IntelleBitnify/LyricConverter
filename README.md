@@ -18,3 +18,5 @@ Tinker around lyrics file:
 3. Before running the program, we should compile, right click LyricConverter and hit compile
 4. To run, right click LyricConverter, then click void main (String[] args), then OK
 5. Program is running, now follow the instruction in the program
+
+##### Star this project if you think it is useful for you, thank you!
