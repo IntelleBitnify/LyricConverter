@@ -167,7 +167,6 @@ public class UserInterface
         inFilename = filenameInput();
 
         FileManager.readLRC(inSong, inFilename);
-        FileManager.writeLRC(inSong, inFilename);
         FileManager.writeSRT(inSong, inFilename);
     }
 
@@ -200,7 +199,6 @@ public class UserInterface
 
         //Change the multiplier
         inSong.changeSpeed(inMultiplier);
-        FileManager.writeLRC(inSong, inFilename);
         FileManager.writeSRT(inSong, inFilename);
     }
 
